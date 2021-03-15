@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software developemnt.
 - 🌱 I’m currently learning backend and frontend frameworks and technologies such as spring boot, Node js, etc.
 - 💞️ I’m looking to collaborate on any job opportunities in Software development in Java, Python or C++.
-- 📫 You can reach me by my email hyperyxe7@gmail.com
+- 📫 You can reach me by my email hyperyx37@gmail.com
 
 <!---
 hyperyx37/hyperyx37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
